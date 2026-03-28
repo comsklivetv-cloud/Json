@@ -1,0 +1,2664 @@
+{
+  "entertainment": [
+    {
+      "id": "300004",
+      "name": "DD National",
+      "logo": "https://img.media.jio.com/tvpimages/91/80/300004_1769426553209_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/DD_National_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Hindi",
+      "drm_license": "4b1521eed3df5f339451bce846950abd:b32833fe11a251724bc6c0b84cc02449"
+    },
+    {
+      "id": "300035",
+      "name": "DD Madhya Pradesh",
+      "logo": "https://img.media.jio.com/imagespublic/6/58/DDMadhyaPradesh_1574667985250_tv.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/DD_Madhya_Pradesh_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Hindi",
+      "drm_license": "d5a1d39ef3e8570a91db17590046ef76:aaa4f16ef3319d4627340f77f33d66f3"
+    },
+    {
+      "id": "300036",
+      "name": "DD Rajasthan",
+      "logo": "https://img.media.jio.com/imagespublic/97/23/DDRajasthan(Jaipur)_1574668063588_tv.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/DD_Rajasthan_Jaipur_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Hindi",
+      "drm_license": "6fa73292f0925d8899aee561c1f74e58:88d38bcc79366bbfd2983cd89dfe7f3d"
+    },
+    {
+      "id": "300037",
+      "name": "DD Bihar",
+      "logo": "https://img.media.jio.com/imagespublic/76/60/DDBihar_1574667887691_tv.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/DD_Bihar_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Hindi",
+      "drm_license": "8726087f24f35dc0bdeefcb157795b59:0055bca1cdf9581dbd6c8f6b7e66211c"
+    },
+    {
+      "id": "300063",
+      "name": "Rang",
+      "logo": "https://img.media.jio.com/imagespublic/93/94/Rang_1574671006640_tv.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Rang_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Assamese",
+      "drm_license": "2167938c9b3a57e4b0abf7f2062447a1:f79682b9b69ac608162c0f9abb9eafe5"
+    },
+    {
+      "id": "300068",
+      "name": "Flower TV",
+      "logo": "https://img.media.jio.com/imagespublic/10/49/FlowerTV_1574670355976_tv.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Flower_TV_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Malayalam",
+      "drm_license": "24f82641c44a5a50b13909ff2801ffc2:bd14189d7bce66e5950cc3cb762f4d07"
+    },
+    {
+      "id": "300079",
+      "name": "Mazhavil Manorama",
+      "logo": "https://img.media.jio.com/tvpimages/27/92/300079_1752854541918_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Mazhavil_Manorama_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Malayalam",
+      "drm_license": "18871f6f5ebc5a2a81664cdac400b1e5:2ed13d5d2590c5ab412c27a53253bb27"
+    },
+    {
+      "id": "300095",
+      "name": "DD Sahayadri",
+      "logo": "https://img.media.jio.com/imagespublic/11/30/DDSahayadri_1579505085078_tv.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/DD_Sahayadri_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Marathi",
+      "drm_license": "9da04ceb1d705f9a8ee45cfec48ae899:14e611d4e0b83c4c818283e524ecfed4"
+    },
+    {
+      "id": "300096",
+      "name": "Aakash Aath",
+      "logo": "https://img.media.jio.com/imagespublic/57/85/AakashAath_1574691882294_tv.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Aakaash_bangla_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Bengali",
+      "drm_license": "b137c51f880d5536b7c3ab2b1dcb2101:385e14a54c8770b828f74bb59e8ad309"
+    },
+    {
+      "id": "300098",
+      "name": "DD Odia",
+      "logo": "https://img.media.jio.com/imagespublic/75/8/DDOriya_1574692335583_tv.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/DD_Oriya_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Odia",
+      "drm_license": "a2fd919ce7755720ae77f49195374790:3ef76eb189b7a339d34651488593b5cb"
+    },
+    {
+      "id": "300100",
+      "name": "Polimer TV",
+      "logo": "https://img.media.jio.com/imagespublic/44/73/PolimerTV_1574694249522_tv.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Polimer_TV_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Tamil",
+      "drm_license": "00b981848b1a5d979668260a22bd4ae1:c74650e08f78101679685f459ba6e8d4"
+    },
+    {
+      "id": "300101",
+      "name": "DD Saptagiri",
+      "logo": "https://img.media.jio.com/imagespublic/74/19/DDSaptagiri_1574693024920_tv.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/DD_Saptagiri_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Telugu",
+      "drm_license": "f608dc2b96dd5d519291b6d459abf361:f2cf0c0709eb3fac54ef48a3d1b2e729"
+    },
+    {
+      "id": "300102",
+      "name": "Makkal TV",
+      "logo": "https://img.media.jio.com/imagespublic/83/31/MakkalTV_1574693726914_tv.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Makkal_TV_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Tamil",
+      "drm_license": "5820dafb03805d3b90ac277ea54814c7:f8dfe0926904d421373ba029cb3e1ef7"
+    },
+    {
+      "id": "300103",
+      "name": "Kairali TV",
+      "logo": "https://img.media.jio.com/imagespublic/26/35/KairaliTV_1574693221565_tv.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Kairali_TV_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Malayalam",
+      "drm_license": "1614113294ca5182bcc22d94d3c170f0:31eb64610895aa113880dc6f9fb294ca"
+    },
+    {
+      "id": "300105",
+      "name": "DD9 chandana (kannada)",
+      "logo": "https://img.media.jio.com/imagespublic/90/41/DD9chandana(kannada)_1574692236116_tv.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/DD9_chandana_kannada_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Kannada",
+      "drm_license": "7d61acfea9aa5b54ab55d586f840f9d2:34c1ac961e3ac1aa0c35eedbfc661776"
+    },
+    {
+      "id": "300106",
+      "name": "DD Girnar",
+      "logo": "https://img.media.jio.com/imagespublic/1/8/DDGirnar_1574692273344_tv.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/DD_Girnar_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Gujarati",
+      "drm_license": "5cc102642e1454cd8a1cef8918362335:7e8994e4afe5a2b0cee69251a1618a2e"
+    },
+    {
+      "id": "300107",
+      "name": "DD Punjabi",
+      "logo": "https://img.media.jio.com/imagespublic/34/19/DDPunjabi_1574692387788_tv.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/DD_Punjabi_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Punjabi",
+      "drm_license": "fde608e9968c5c139e77504e49892164:8997db8a52e2341975e29a0357792ff1"
+    },
+    {
+      "id": "300109",
+      "name": "Nepal 1",
+      "logo": "https://img.media.jio.com/imagespublic/57/80/Nepalone_1574693857085_tv.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Nepal_one_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Nepali",
+      "drm_license": "f49a4e85667e50e59492136ccff094f1:799d363a66596c694ad365586ec09dd1"
+    },
+    {
+      "id": "300111",
+      "name": "Amrita TV",
+      "logo": "https://img.media.jio.com/imagespublic/75/60/AmritaTV_1574692050574_tv.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Amrita_TV_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Malayalam",
+      "drm_license": "e9856e2c13135d258f498b6a39b6e13b:8ba49286b6900e132f5785488aa241d2"
+    },
+    {
+      "id": "300113",
+      "name": "DD5 Podhigai",
+      "logo": "https://img.media.jio.com/imagespublic/18/31/DD5Podhigai_1574692186933_tv.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/DD5_Podhigai_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Tamil",
+      "drm_license": "e3269f37e51b568bbacd7bc5cd4bad1f:3eee2572a06f5d3760af6bd87294d1ae"
+    },
+    {
+      "id": "300114",
+      "name": "Vasanth TV",
+      "logo": "https://img.media.jio.com/imagespublic/62/14/VasanthTV_1574695444198_tv.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Vasanth_TV_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Tamil",
+      "drm_license": "221fbcbb6a125e9281f6f533bba26557:4a57b0644dfe04264e7e484900f43869"
+    },
+    {
+      "id": "300156",
+      "name": "Mazhavil Manorama HD",
+      "logo": "https://img.media.jio.com/tvpimages/97/2/300156_1752854415477_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Mazavali_Manorama_HD_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Malayalam",
+      "drm_license": "b561c34567bb5f4da942ba7045922d24:c0840c676e42ee04b4df0c1a1f7e7f64"
+    },
+    {
+      "id": "300161",
+      "name": "Vendhar TV",
+      "logo": "https://img.media.jio.com/imagespublic/18/4/VendharTV_1574669540529_tv.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Vendhar_TV_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Tamil",
+      "drm_license": "9b6c4374605e5b4590522d6443990f67:7833ec685f36ca55a76de74f6504ed8e"
+    },
+    {
+      "id": "300177",
+      "name": "PTC Punjabi",
+      "logo": "https://img.media.jio.com/imagespublic/87/13/PTCPunjabi_1574668647539_tv.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/PTC_Punjabi_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Punjabi",
+      "drm_license": "f6e3179024d4569d97c5ed006ca35d24:1bc377df43561d40f67c36d2d99b18a9"
+    },
+    {
+      "id": "300180",
+      "name": "Kalaignar TV",
+      "logo": "https://img.media.jio.com/imagespublic/92/50/KalaignarTV_1574668115294_tv.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Kalaignar_TV_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Tamil",
+      "drm_license": "75dfe3fa680c58d6bc94815950c7d4f0:480cd1106bfb291a5735b0f9dc71bded"
+    },
+    {
+      "id": "300263",
+      "name": "Sony Aath",
+      "logo": "https://img.media.jio.com/tvpimages/80/22/300263_1753198530763_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/SonyAATH_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Bengali",
+      "drm_license": "c00c75edb2a65e2d86f4094249bfbd85:9221a2bda61fe219560311c60662ce30"
+    },
+    {
+      "id": "300266",
+      "name": "Sony Entertainment Television HD",
+      "logo": "https://img.media.jio.com/imagespublic/40/88/300266_1666878590371_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Sony_HD_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "StreamFlex19",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Hindi",
+      "drm_license": "ebd37e936867596a868cc085070e4cd5:f5c58e6bf0a2deb018fe87a934a6a1d0"
+    },
+    {
+      "id": "300267",
+      "name": "Sony SAB HD",
+      "logo": "https://img.media.jio.com/tvpimages/3/37/300267_1753198030652_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/SonySAB_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Hindi",
+      "drm_license": "0449d593e6bb5a81a7ab5c5986e5940b:c0abc7e159389031e53a4b8dfa53d141"
+    },
+    {
+      "id": "300268",
+      "name": "Sony PAL",
+      "logo": "https://img.media.jio.com/tvpimages/27/1/300268_1753198503854_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/SonyPAL_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Hindi",
+      "drm_license": "951fda0637ef58608a0cc62a31c7f594:59bcb68bb58d93ae568879b8ef4185a2"
+    },
+    {
+      "id": "300275",
+      "name": "Sony Marathi",
+      "logo": "https://img.media.jio.com/tvpimages/20/34/300275_1753198479467_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/SonyMarathi_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Marathi",
+      "drm_license": "adb6b9b4fa9551ef80975d9d2a1152a4:8ee7da9df54d6d34b40a33c41c6e23d2"
+    },
+    {
+      "id": "300311",
+      "name": "Big Magic",
+      "logo": "https://img.media.jio.com/tvpimages/61/11/300311_1750315240719_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/BigMagic_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Hindi",
+      "drm_license": "10d26a813b5059bda7c34bb51902346b:11cfaffd12cf95bff38492d87d5a6903"
+    },
+    {
+      "id": "300313",
+      "name": "Zee Tamil",
+      "logo": "https://img.media.jio.com/tvpimages/13/26/300313_1768297745232_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeTamil_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Tamil",
+      "drm_license": "3b5583d76a465054a7d444b307a9ff21:3f8d9e2207221a0cbcaf120754e4b2e4"
+    },
+    {
+      "id": "300318",
+      "name": "Zee Kannada",
+      "logo": "https://img.media.jio.com/tvpimages/27/60/300318_1750316485249_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeKannada_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Kannada",
+      "drm_license": "dd1bb73211195ef5a02d9f1acd796a89:12b843dbd649f3e41036ee5be88785b3"
+    },
+    {
+      "id": "300320",
+      "name": "Zee Marathi HD",
+      "logo": "https://img.media.jio.com/tvpimages/68/51/300320_1769501817139_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeMarathiHD_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Marathi",
+      "drm_license": "0bf930e665a756bab62df644407e0877:42e5003f036f924d5095e0d6f315c9f6"
+    },
+    {
+      "id": "300323",
+      "name": "Zee Bangla",
+      "logo": "https://img.media.jio.com/tvpimages/10/93/300323_1768297625907_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeBangla_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Bengali",
+      "drm_license": "fad89ecbae1c5b819e77020cbd209913:4dec9d39fea54d2f38610274bcf3536a"
+    },
+    {
+      "id": "300325",
+      "name": "Zee Punjabi",
+      "logo": "https://img.media.jio.com/tvpimages/26/11/300325_1750317008583_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/ZeePunjabi_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Punjabi",
+      "drm_license": "97f38fde4a1e5784aac3ca8ce3668304:f3ac52006e0cf7e2c317eceebf5f781c"
+    },
+    {
+      "id": "300327",
+      "name": "Anmol TV",
+      "logo": "https://img.media.jio.com/tvpimages/45/13/300327_1750315669073_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeAnmol_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Hindi",
+      "drm_license": "6a705e9367d151179160289227df4a33:7bdb097b34a544142c7b6b338f5d61dd"
+    },
+    {
+      "id": "300341",
+      "name": "Zee Sarthak",
+      "logo": "https://img.media.jio.com/tvpimages/34/94/300341_1768297693860_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeSarthak_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Odia",
+      "drm_license": "0e65e1ddb70f5ad9a5b521402c2ce026:a89cef74a335be09bd08977334e7b893"
+    },
+    {
+      "id": "300348",
+      "name": "Zee Telugu",
+      "logo": "https://img.media.jio.com/tvpimages/46/63/300348_1750319139253_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeTelugu_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Telugu",
+      "drm_license": "a6240ba332285a53a2bb222a6aae85a0:98edf5ea9ede46133e3c710cba89a872"
+    },
+    {
+      "id": "300377",
+      "name": "&TV HD",
+      "logo": "https://img.media.jio.com/tvpimages/65/85/300377_1750315162481_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/AndTVHD_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Hindi",
+      "drm_license": "88295124db295a6b9f5027dc6049e294:641c40230a95cb76d1949125f9552fda"
+    },
+    {
+      "id": "300378",
+      "name": "Zee TV HD",
+      "logo": "https://img.media.jio.com/tvpimages/66/3/300378_1750319244582_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeTVHD_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Hindi",
+      "drm_license": "a23b609b33e254a48e4fc6fa7af0fd8d:4064c52328bfe9e6008776b48a431e4b"
+    },
+    {
+      "id": "300396",
+      "name": "Zee TV",
+      "logo": "https://img.media.jio.com/tvpimages/85/63/300396_1751285548502_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeTV_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Hindi",
+      "drm_license": "135fa2c3db6756a2a89dc08c033680ec:5d2ed0c831759179354b2151a2cb0566"
+    },
+    {
+      "id": "300397",
+      "name": "Zee Yuva",
+      "logo": "https://img.media.jio.com/tvpimages/98/27/300397_1768297473516_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeYuva_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Marathi",
+      "drm_license": "fa2af2feb3395a7b8b931bd772683831:411e7ecb174921ff97cc0162c2372c69"
+    },
+    {
+      "id": "300400",
+      "name": "Zee Cafe HD",
+      "logo": "https://img.media.jio.com/tvpimages/13/11/300400_1768317822433_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeCafeHD_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "English",
+      "drm_license": "0929b624a3625eeb9ca39bf58b19bd2b:90fda7a92a6da6706a5c17e5f9ae903e"
+    },
+    {
+      "id": "300443",
+      "name": "India Science",
+      "logo": "https://img.media.jio.com/imagespublic/75/2/IndiaScience_1593439269443_promo.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/India_Science_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Educational"
+      ],
+      "language": "Hindi",
+      "drm_license": "f38ca84380605c69bf7a18008185f24a:1c482c5f11a584e98d0a55591668797f"
+    },
+    {
+      "id": "301032",
+      "name": "Jio Exclusive HD",
+      "logo": "https://img.media.jio.com/imagespublic/9/59/301032_1621190019443_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Jio_Exclusive_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "English",
+      "drm_license": "70fe5d9068195768962f9d8082cb19a6:c7d9d5cda12a707f979c7477ab439184"
+    },
+    {
+      "id": "301057",
+      "name": "DD Kashir",
+      "logo": "https://img.media.jio.com/imagespublic/9/75/301057_1626886937519_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/DD_Kashir_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Urdu",
+      "drm_license": "897bb70641295635b17ee72112be359b:6fa9ab9a6fa235948d44a8b804cbb31f"
+    },
+    {
+      "id": "301093",
+      "name": "Punjab Plus",
+      "logo": "https://img.media.jio.com/imagespublic/69/27/301093_1635856204046_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Punjab_Plus_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Punjabi",
+      "drm_license": "1f7b3195b9f35316bce03295222e18f9:0c9d4a0652ca978efd081d17d19df475"
+    },
+    {
+      "id": "301155",
+      "name": "Colors Tamil HD",
+      "logo": "https://img.media.jio.com/imagespublic/23/73/301155_1643713855197_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/ColorsTamilHD_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Tamil",
+      "drm_license": "94d31d976768554b892f7037db09e0c9:08c5154b6cdcb6e0fc99d9d4e6298cb3"
+    },
+    {
+      "id": "301163",
+      "name": "Raj Pariwar",
+      "logo": "https://img.media.jio.com/imagespublic/68/8/301163_1643893032820_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Raj_Pariwar_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Hindi",
+      "drm_license": "3b5f1943767c5c7ca54aa17034f73b07:1d09b391566f482d28d27db449b2222f"
+    },
+    {
+      "id": "301172",
+      "name": "Vissa",
+      "logo": "https://img.media.jio.com/imagespublic/81/11/301172_1643920559646_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Vissa_TV_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Telugu",
+      "drm_license": "fdb2083e5f075968b35408c161389a4d:d0092468bb835967c469a04ffc1dce71"
+    },
+    {
+      "id": "301174",
+      "name": "Colors Bangla HD",
+      "logo": "https://img.media.jio.com/imagespublic/72/61/301174_1643920918847_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_Bengali_HD_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Bengali",
+      "drm_license": "79e4ad38e4265035877e9a7d51e08594:82ceadac512c10e1df711eb743e099ae"
+    },
+    {
+      "id": "301175",
+      "name": "Colors Super",
+      "logo": "https://img.media.jio.com/imagespublic/44/96/301175_1643921051725_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/ColorsSuper_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Kannada",
+      "drm_license": "b0acd54e4fca554fba081512eaf93384:4cb9416e3f7d5e78a7cc48e255d44441"
+    },
+    {
+      "id": "301178",
+      "name": "Puthu Yugam ",
+      "logo": "https://img.media.jio.com/imagespublic/67/31/301178_1644235512094_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Puthu_Yugam_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Tamil",
+      "drm_license": "6f12c21409935b97b9bdaeeaf6ab7822:d8e90e3241b0a9fabf4ac2234305a53c"
+    },
+    {
+      "id": "301188",
+      "name": "MH1 Dil Se",
+      "logo": "https://img.media.jio.com/imagespublic/56/34/301188_1645595694699_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/MH1_DilSe_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Bhojpuri",
+      "drm_license": "716450e7a3f0522db29e59c636b6d0ac:ccd8e32ba5c60afe91e634b9f39efcce"
+    },
+    {
+      "id": "301190",
+      "name": "Raj TV",
+      "logo": "https://img.media.jio.com/imagespublic/72/8/301190_1645624698416_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Raj_TV_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Tamil",
+      "drm_license": "3b214e599f3f5fb3abd92164fa152caf:ec6050021a558cd31511717e1c0912e6"
+    },
+    {
+      "id": "301204",
+      "name": "Sidharth TV",
+      "logo": "https://img.media.jio.com/imagespublic/82/30/301204_1646815805517_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Sidharth_TV_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Odia",
+      "drm_license": "4c13b89593dd53dea599d536b306528e:36a170e30a62bae6ec4af300992015c2"
+    },
+    {
+      "id": "301207",
+      "name": "Shemaroo TV",
+      "logo": "https://img.media.jio.com/imagespublic/60/81/301207_1646912579565_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Shemaroo_TV_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Hindi",
+      "drm_license": "ca5769c7002a5baaa1a7213fb5b702f1:ca9b74278d4ab34a04dbeef64bc5e6dd"
+    },
+    {
+      "id": "301221",
+      "name": "WE TV",
+      "logo": "https://img.media.jio.com/imagespublic/19/32/301221_1649943737302_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Kairali_WE_TV_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Malayalam",
+      "drm_license": "48eebab77b4d50c79e39ae25460683c4:95c65c81fa2c7ca40163139e1a34c8c4"
+    },
+    {
+      "id": "301223",
+      "name": "Peppers TV",
+      "logo": "https://img.media.jio.com/imagespublic/42/59/301223_1649944083201_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Peppers_TV_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Tamil",
+      "drm_license": "2ea6469898f65ed6b88b1718c99d7a32:067fb846ee90c5d6820cc463eb6824c8"
+    },
+    {
+      "id": "301253",
+      "name": "Siri Kannada",
+      "logo": "https://img.media.jio.com/imagespublic/73/53/301253_1652172777541_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Sirikannada_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Kannada",
+      "drm_license": "a881294a610c5269bb87218dc15a5988:673ca2495fc340a9b716f0c22b643a89"
+    },
+    {
+      "id": "301291",
+      "name": "Shemaroo Umang",
+      "logo": "https://img.media.jio.com/imagespublic/24/84/301291_1662210049051_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Shemaroo_Umang_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Hindi",
+      "drm_license": "2ba27f8e3a0350aa9bc40bb7ae07c83a:de1036911f7232a8f58d18bf6f21820b"
+    },
+    {
+      "id": "301292",
+      "name": "Gangaur",
+      "logo": "https://img.media.jio.com/imagespublic/81/20/301292_1662210524339_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Gangaur/HLSPartner/index.m3u8",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "none",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Hindi"
+    },
+    {
+      "id": "301318",
+      "name": "Bhojpuri Junction",
+      "logo": "https://img.media.jio.com/imagespublic/94/34/301318_1670477900128_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Bhojpuri_Junction_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Bhojpuri",
+      "drm_license": "c2c048e439d65316beeda6ef64d5d0f8:e2fdc132cbdee65501b845ce414fce39"
+    },
+    {
+      "id": "301320",
+      "name": "Nakshatra  Digital TV",
+      "logo": "https://img.media.jio.com/imagespublic/92/94/301320_1673623557579_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Nakshatra_Digital_TV_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Kannada",
+      "drm_license": "37b9a46068985672ba01da4d0e1e0230:7403aedf707ddf0607f96ba367f5306a"
+    },
+    {
+      "id": "301325",
+      "name": "Animax",
+      "logo": "https://img.media.jio.com/imagespublic/57/24/301325_1674217633571_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Animax_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "English",
+      "drm_license": "3aa4315e260952699373b61cac44cdc0:85f4575328f290b1f468086d6bc157ed"
+    },
+    {
+      "id": "301327",
+      "name": "Punjabi Melodies",
+      "logo": "https://img.media.jio.com/imagespublic/92/59/301327_1674808225577_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Punjabi_Melodies_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Punjabi",
+      "drm_license": "85a4e92d3c0f525da981be780d469e66:dc12a35d9171837e7ace94a2dfdc99b1"
+    },
+    {
+      "id": "301365",
+      "name": "Spondon",
+      "logo": "https://img.media.jio.com/imagespublic/2/56/301365_1680015567133_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Spondon_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Assamese",
+      "drm_license": "b5a162430d3756199f57e142057f57d7:8c090a3de96ce34227507a714f668b16"
+    },
+    {
+      "id": "301368",
+      "name": "Jonack",
+      "logo": "https://img.media.jio.com/imagespublic/83/63/301368_1680016109953_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Jonack_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Assamese",
+      "drm_license": "c4687b5bc9535475979f9a27cf611ca9:7ae3367de73aa2791330f8c53c1b4da3"
+    },
+    {
+      "id": "301374",
+      "name": "DD Uttar Pradesh",
+      "logo": "https://img.media.jio.com/imagespublic/19/77/301374_1681911079291_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/DD_Uttar_Pradesh_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Hindi",
+      "drm_license": "c0dceffa8192598ba745c8b963f08103:13aad3ed386eafabdfdd0746c89eb4dc"
+    },
+    {
+      "id": "301375",
+      "name": "DD Bangla",
+      "logo": "https://img.media.jio.com/imagespublic/71/55/301375_1681911453091_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/DD_Bangla_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Bengali",
+      "drm_license": "f4a2b719f8415e90815edc516967e573:41d85e31dad9fe2628a86843dbd198d4"
+    },
+    {
+      "id": "301376",
+      "name": "DD Malayalam",
+      "logo": "https://img.media.jio.com/imagespublic/85/81/301376_1681911618089_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/DD_Malayalam_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Malayalam",
+      "drm_license": "34196b45866150ffb2a6ad0b7b3ea915:09cc8250fd06b26f9c68771f537c76c4"
+    },
+    {
+      "id": "301377",
+      "name": "DD Urdu",
+      "logo": "https://img.media.jio.com/imagespublic/92/26/301377_1681911817272_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/DD_urdu_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Urdu",
+      "drm_license": "f9ef86d0cba85e468767af736352e0a2:6568f3d07008ccadf584d12f2280bc94"
+    },
+    {
+      "id": "301394",
+      "name": "Vaanavil  TV",
+      "logo": "https://img.media.jio.com/imagespublic/66/19/301394_1684327509247_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Vaanavil_TV_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Tamil",
+      "drm_license": "302f3506f49453e988440e6a68bfe816:0b274d040add5d5c12ddb318c0099c71"
+    },
+    {
+      "id": "301456",
+      "name": "DD Arunprabha",
+      "logo": "https://img.media.jio.com/imagespublic/42/55/301456_1687195135820_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/DD_Arunprabha_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Hindi",
+      "drm_license": "b9a49f26fbfb52babe4fe5624f1415fd:68d1852f13fcced2705f732bd3d6168b"
+    },
+    {
+      "id": "301457",
+      "name": "DD Gyandarshan",
+      "logo": "https://img.media.jio.com/imagespublic/77/91/301457_1687195315911_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/DD_Gyandarshan_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Hindi",
+      "drm_license": "ce47f12720d95de9a3a6127db02c1113:e2ce8a2226e18fe37ad9fe843599188a"
+    },
+    {
+      "id": "301464",
+      "name": "Moon TV",
+      "logo": "https://img.media.jio.com/imagespublic/81/79/301464_1687542677432_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Moon_Tv_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Tamil",
+      "drm_license": "4b9ed4a04bc45a0f87c06953d625d20c:ab9eb9c3f95f8e4c363e39ba94664304"
+    },
+    {
+      "id": "301475",
+      "name": "Pasand",
+      "logo": "https://img.media.jio.com/imagespublic/89/90/301475_1688124827567_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Pasand_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Hindi",
+      "drm_license": "b8d2af0fef385958978524be4a7957fd:0447f0f7470b61c28867f10259cd22a5"
+    },
+    {
+      "id": "301476",
+      "name": "Studio Yuva Alpha",
+      "logo": "https://img.media.jio.com/imagespublic/67/8/301476_1688125294283_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Studio_Yuva_Alpha_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Telugu",
+      "drm_license": "c1ac42f3c0d95cabadc353315b45dd57:98dec96d9fe7648c8229ccfc9efc4b82"
+    },
+    {
+      "id": "301524",
+      "name": "Globe TV",
+      "logo": "https://img.media.jio.com/imagespublic/39/11/301524_1693299190403_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Globe_TV_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Bengali",
+      "drm_license": "4b551097e192593e973acb95552d3bf1:c43170b98c4688f41e413b8ed1f6a9cf"
+    },
+    {
+      "id": "301526",
+      "name": "Green Chillies",
+      "logo": "https://img.media.jio.com/imagespublic/85/69/301526_1694167257368_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Green_Chillies_TV_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Hindi",
+      "drm_license": "b2918958cf7f50dabf4f693e37f94d60:78ec5e5cca4c9e2b77f8ba814452ac61"
+    },
+    {
+      "id": "301528",
+      "name": "Hi Dost!",
+      "logo": "https://img.media.jio.com/imagespublic/85/62/301528_1694787450246_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Hi_Dost_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "English",
+      "drm_license": "61d040ff04145a7aa7df02a97b64b6ae:6d5cbe6bd0d1aefe7647c404f692fae5"
+    },
+    {
+      "id": "301543",
+      "name": "Colors HD",
+      "logo": "https://img.media.jio.com/imagespublic/58/36/301543_1696231657740_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/ColorsHD_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Hindi",
+      "drm_license": "d9025bf5bbe6502cab58edaa0b50750b:91b5ca6ebefe3a977cb6fcae31868664"
+    },
+    {
+      "id": "301544",
+      "name": "Colors Kannada HD",
+      "logo": "https://img.media.jio.com/imagespublic/43/38/301544_1696232891833_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_Kannada_HD_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Kannada",
+      "drm_license": "3d3d8a2fdcf85fa0bf624860f796c809:8959641efbd66352a19a5f930f3dbc26"
+    },
+    {
+      "id": "301546",
+      "name": "Colors Marathi HD",
+      "logo": "https://img.media.jio.com/tvpimages/81/19/301546_1768151398855_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_Marathi_HD_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Marathi",
+      "drm_license": "2038491f84f6547986f8ff80e696f8b2:3316fed01103f3241733629cc6b5469f"
+    },
+    {
+      "id": "301547",
+      "name": "Colors Gujarati",
+      "logo": "https://img.media.jio.com/tvpimages/48/23/301547_1734522088301_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/ColorsGujarati_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Gujarati",
+      "drm_license": "6e27c4a5f43e504fa5f9d39e880687d1:0baa1de589cf31b80cac8391466d7ad6"
+    },
+    {
+      "id": "301549",
+      "name": "Colors Infinity HD",
+      "logo": "https://img.media.jio.com/imagespublic/5/81/301549_1696234493629_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_Infinity_HD_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "English",
+      "drm_license": "509216860f8e594aaf7e921296f53851:536df1e35e2bb055be0117b51db8139c"
+    },
+    {
+      "id": "301566",
+      "name": "KCM",
+      "logo": "https://img.media.jio.com/imagespublic/8/36/301566_1700490697357_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/KCM_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "English",
+      "drm_license": "e0122b024b985ae4bc426a5099c02cef:a54aeb109d14d03d8d7929ebc0df76b9"
+    },
+    {
+      "id": "301632",
+      "name": "Investigation Discovery",
+      "logo": "https://img.media.jio.com/imagespublic/53/20/301632_1707141245581_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/IDHindi_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Hindi",
+      "drm_license": "da494c4a7a545a0ab48b3f893e1feeeb:59b6b3a2a476a00cabefa77623d0d0c1"
+    },
+    {
+      "id": "301650",
+      "name": "Maya Tv",
+      "logo": "https://img.media.jio.com/imagespublic/57/92/301650_1709115392851_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Maya_Tv_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Bengali",
+      "drm_license": "ee3bad543d2d5dd096ba9506bd537307:4b2400b7fbaa42adc8641cf020186690"
+    },
+    {
+      "id": "301653",
+      "name": "Rupashi Bangla",
+      "logo": "https://img.media.jio.com/tvpimages/10/11/301653_1754938475169_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Rupashi_Bangla_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Bengali",
+      "drm_license": "5d126f32b30851dfb1518d3c47ec7340:aff2bae52e011dd791d9ade981e888a3"
+    },
+    {
+      "id": "301690",
+      "name": "BH OTT India Fest",
+      "logo": "https://img.media.jio.com/tvpimages/63/52/301690_1764334537489_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/BHStyle_Icon_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Hindi",
+      "drm_license": "250322f6306959c8b4cf5299b14f5493:8bd68bf7ecb0f83a66b8708b06c5c53e"
+    },
+    {
+      "id": "301693",
+      "name": "MK Six",
+      "logo": "https://img.media.jio.com/imagespublic/5/69/301693_1714400288762_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/MK_Six_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Tamil",
+      "drm_license": "b49a765e90eb5b43bdec0471ed4eda78:d4a55cf0dc5127b69e2c355ff4e35f15"
+    },
+    {
+      "id": "301698",
+      "name": "ETV Telugu",
+      "logo": "https://img.media.jio.com/tvpimages/86/75/301698_1753182169530_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/ETV_Telugu_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Telugu",
+      "drm_license": "4af6f84d207d545eaee33cdc08f33358:d23c174d5f5725fb44c90eae7061299b"
+    },
+    {
+      "id": "301700",
+      "name": "ETV Plus",
+      "logo": "https://img.media.jio.com/tvpimages/3/29/301700_1753182073553_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/ETV_Plus_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Telugu",
+      "drm_license": "53ab6e95e4ca56e6ba7cbb5c119a1e45:41cf3085f50e8a3fee93e7c97a9a0ec7"
+    },
+    {
+      "id": "301701",
+      "name": "ETV HD",
+      "logo": "https://img.media.jio.com/tvpimages/32/32/301701_1753177988226_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/ETV_HD_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Telugu",
+      "drm_license": "9eb457f74abd52ac877e588471d9c723:93f624d6175bb1d14a871e4ed12498cf"
+    },
+    {
+      "id": "301702",
+      "name": "ETV Plus HD",
+      "logo": "https://img.media.jio.com/tvpimages/73/73/301702_1753182031197_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/ETV_Plus_HD_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Telugu",
+      "drm_license": "bf90af0e579b5c4f8d7523af5068ec17:a757950fa8c1d7907a94987912b65ea9"
+    },
+    {
+      "id": "301706",
+      "name": "Bollywood Masala",
+      "logo": "https://img.media.jio.com/imagespublic/0/6/301706_1715337955665_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/bollywoodmasala/HLSPartner/index.m3u8",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "none",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Hindi"
+    },
+    {
+      "id": "301742",
+      "name": "Thanti One",
+      "logo": "https://img.media.jio.com/imagespublic/46/65/301742_1725963061251_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Thanti_One_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Tamil",
+      "drm_license": "f1cc3d31477255288c5a6e47be0ba0bb:b99afce91d2fddfb3a4c01df22fb5964"
+    },
+    {
+      "id": "301757",
+      "name": "Raapchik",
+      "logo": "https://img.media.jio.com/imagespublic/7/81/301757_1720040286598_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Captain_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Bhojpuri",
+      "drm_license": "8483fcc84a3055ce832611543eb7bcb0:2547632e27d51a22c115a68512ad5a58"
+    },
+    {
+      "id": "301760",
+      "name": "TV Asia Powered by Shemaroo",
+      "logo": "https://img.media.jio.com/imagespublic/61/2/301760_1721738169639_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/TV_Asia_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Hindi",
+      "drm_license": "d86c7630bc555c73a2c56f4676eaec30:6ccab6299cf2a5c3fff1e2be293d5f67"
+    },
+    {
+      "id": "301775",
+      "name": "Sundrani TV",
+      "logo": "https://img.media.jio.com/imagespublic/62/95/301775_1722594326982_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Sundrani_TV_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Chattisgarhi",
+      "drm_license": "667eca18a04b5e0d9a9bf17232a650c8:c89aa218c6803f1e700af50f5d14c42c"
+    },
+    {
+      "id": "301777",
+      "name": "Rongeen TV",
+      "logo": "https://img.media.jio.com/imagespublic/28/33/301777_1722674342530_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Rongeen_TV_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Bengali",
+      "drm_license": "cc73820e5c7b56c4b71dea3ff244fd5d:a0beb46ec64d13391a6120c307ecd6b7"
+    },
+    {
+      "id": "301779",
+      "name": "Taiwan Plus",
+      "logo": "https://img.media.jio.com/imagespublic/25/18/301779_1722947230637_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Taiwan_Plus_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "English",
+      "drm_license": "ff3bc03133335b0a8446002e6488fa02:50b043823437cee3617d9f6751d27fa2"
+    },
+    {
+      "id": "301781",
+      "name": "Sun Neo HD",
+      "logo": "https://img.media.jio.com/tvpimages/20/95/301781_1770910375880_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/SUN_Neo_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Hindi",
+      "drm_license": "eb1144c7fd6e58a68123e7c586ce6e25:b03cb03960713d69ec37c0cded721fc5"
+    },
+    {
+      "id": "301797",
+      "name": "Colors Rishtey",
+      "logo": "https://img.media.jio.com/imagespublic/50/8/301797_1725603120083_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/ColorsRishtey_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Hindi",
+      "drm_license": "190829c4e2b05b8ca547d2cd30ab3bba:a28225e91492ce2d6601874c701bf9bd"
+    },
+    {
+      "id": "301852",
+      "name": "Mahaa Max",
+      "logo": "https://img.media.jio.com/tvpimages/26/71/301852_1754936730444_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Mahaa_Max_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Telugu",
+      "drm_license": "d0c9a3eb4af15f5592229975a2376b76:82c397fd84d85f7010e054f2b1733c91"
+    },
+    {
+      "id": "301865",
+      "name": "Lionsgate Play",
+      "logo": "https://img.media.jio.com/tvpimages/83/7/301865_1766571697229_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Lionsgate_Play_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Hindi",
+      "drm_license": "3414fd045d995f07a4f943136bc88a9f:44595d4c7251eefd1586819fef1ca785"
+    },
+    {
+      "id": "301868",
+      "name": "Sanjha TV",
+      "logo": "https://img.media.jio.com/imagespublic/75/4/301868_1729616969882_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Sanjha_TV_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Punjabi",
+      "drm_license": "5bdaa1a622045161a677fbe0caa57e67:da46b6f9fddf254792a6b0843b62737e"
+    },
+    {
+      "id": "301869",
+      "name": "Desi Channel",
+      "logo": "https://img.media.jio.com/imagespublic/9/66/301869_1729617307518_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Desi_Channel_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Punjabi",
+      "drm_license": "97e3ed23983352ee81c9cce3d4483fe4:6cfb5fe680005b15a3d4ed3938d2f2df"
+    },
+    {
+      "id": "301887",
+      "name": "Jaya TV HD",
+      "logo": "https://img.media.jio.com/tvpimages/74/78/301887_1732644338482_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Jaya_TV_HD_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Tamil",
+      "drm_license": "b53a72551ecd5f5a93785ab2eea2c04a:91c08ce0ece5d6c8c167b104a7c9ab00"
+    },
+    {
+      "id": "301934",
+      "name": "Apex Entertainment",
+      "logo": "https://img.media.jio.com/tvpimages/45/23/301934_1754934075538_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Apex_Entertainment_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Bhojpuri",
+      "drm_license": "460a31bec6255340a73626d761ae7edd:429c2bbc7cbd54dbefa21823b4f3cdd8"
+    },
+    {
+      "id": "301945",
+      "name": "Namma Bangalore",
+      "logo": "https://img.media.jio.com/tvpimages/3/83/301945_1742191319739_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Namma_Bangalore_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Kannada",
+      "drm_license": "67dbea9d05645137b2b8ffa780851ccf:a4f07833db5f0a88be63d3e61d19b907"
+    },
+    {
+      "id": "301972",
+      "name": "Star Jalsha HD",
+      "logo": "https://img.media.jio.com/tvpimages/13/28/301972_1753203984227_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Jalsha_HD_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Bengali",
+      "drm_license": "7810c0264da15a62b200a3254d041aed:cb1e3bcfcdb1281b85625b12dae6de43"
+    },
+    {
+      "id": "301974",
+      "name": "Star Suvarna HD",
+      "logo": "https://img.media.jio.com/tvpimages/81/94/301974_1753190228953_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Suvarna_HD_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Kannada",
+      "drm_license": "9065757e265f5f53a8f06a9c9c931d02:6fd7b25773ad2f9641ab5f65a1b18e42"
+    },
+    {
+      "id": "301975",
+      "name": "Asianet HD",
+      "logo": "https://img.media.jio.com/tvpimages/42/10/301975_1753198997948_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Asianet_HD_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Malayalam",
+      "drm_license": "438370e98be35e618650b4fde6f7bcee:8af903db53e7b69e6e1c9a04711ebd62"
+    },
+    {
+      "id": "301986",
+      "name": "Star Maa HD",
+      "logo": "https://img.media.jio.com/tvpimages/61/7/301986_1749652712205_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Maa_HD_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Telugu",
+      "drm_license": "6c4b78251e865fc2a23a000374c8e725:983ecd2ffe60cdcf2e5e76ae229a5cb8"
+    },
+    {
+      "id": "301998",
+      "name": "Star Plus HD",
+      "logo": "https://img.media.jio.com/tvpimages/79/39/301998_1753187048300_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Plus_HD_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Hindi",
+      "drm_license": "6f7b7241b2935a909d389fe318e5baaa:65783311644973348f359dc154bb41db"
+    },
+    {
+      "id": "302080",
+      "name": "Star Suvarna",
+      "logo": "https://img.media.jio.com/tvpimages/87/78/302080_1753202974933_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Suvarna_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Kannada",
+      "drm_license": "fc71d871cbf45818a5b3eb3652d75387:added6a0df4d0eab8758b0ed9f54ecf2"
+    },
+    {
+      "id": "302082",
+      "name": "Star Bharat",
+      "logo": "https://img.media.jio.com/tvpimages/49/44/302082_1753203942225_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Bharat_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Hindi",
+      "drm_license": "687cfa6d31645a91ba3c38a9acdfac7c:c035ca584ac0a2170b96e2fa4523f3be"
+    },
+    {
+      "id": "302084",
+      "name": "Star Plus",
+      "logo": "https://img.media.jio.com/tvpimages/66/40/302084_1753189751700_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Plus_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Hindi",
+      "drm_license": "3bba2ffaf08b501796c5d9eb431460a4:7a62074c4c46f3b153259526481c02bf"
+    },
+    {
+      "id": "302085",
+      "name": "Star Vijay HD",
+      "logo": "https://img.media.jio.com/tvpimages/41/51/302085_1768758078020_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Vijay_HD_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Tamil",
+      "drm_license": "849d6b062b645abea937ec7f2b6b1686:1f65503420b88d11a16d4a4eacd95f0f"
+    },
+    {
+      "id": "302086",
+      "name": "STAR Utsav",
+      "logo": "https://img.media.jio.com/tvpimages/34/40/302086_1753186825930_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Utsav_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Hindi",
+      "drm_license": "63456f11b1bf599a93a6a4b9a76db2bf:b47756e4d8fb938dcbcb72d6d877fbc3"
+    },
+    {
+      "id": "302087",
+      "name": "Star Bharat HD",
+      "logo": "https://img.media.jio.com/tvpimages/60/42/302087_1753199815856_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Bharat_HD_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Hindi",
+      "drm_license": "701524f373c55b2785ac49aab0bdc4a6:9de42eedb40f6c243848eb8aa8103e32"
+    },
+    {
+      "id": "302088",
+      "name": "Disney International HD",
+      "logo": "https://img.media.jio.com/tvpimages/21/80/302088_1753191194063_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_International_HD_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "English",
+      "drm_license": "d0e021aa91c65e68a7028c2a6a762eca:d50822403365e360d12840251cecee84"
+    },
+    {
+      "id": "302090",
+      "name": "Star Pravah",
+      "logo": "https://img.media.jio.com/tvpimages/80/61/302090_1753198757881_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Pravah_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Marathi",
+      "drm_license": "3fb941b7c6fe54fb8f66b19804eff952:c1b742ed7b6d4eca1c6bdcb9041d9b80"
+    },
+    {
+      "id": "302091",
+      "name": "Star Pravah HD",
+      "logo": "https://img.media.jio.com/tvpimages/32/30/302091_1753204309224_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Pravah_HD_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Marathi",
+      "drm_license": "ac5fe0f7b01659a9aba3475523f71ae1:b2e3f3af283a309e24eabe6b8681282e"
+    },
+    {
+      "id": "302093",
+      "name": "Star Vijay",
+      "logo": "https://img.media.jio.com/tvpimages/1/40/302093_1753203140323_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Vijay_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Tamil",
+      "drm_license": "c5f2861efbc7552ba802dcae4e160359:4ea32867828280a4d6f36ea8fbbe38eb"
+    },
+    {
+      "id": "302095",
+      "name": "Vijay Super HD",
+      "logo": "https://img.media.jio.com/tvpimages/15/60/302095_1753203028317_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Vijay_Super_HD_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Tamil",
+      "drm_license": "4058ba890768578093e4d30bc957b85c:42d335cfebf7292487522ac572d706a8"
+    },
+    {
+      "id": "302097",
+      "name": "Star Kiran",
+      "logo": "https://img.media.jio.com/tvpimages/90/89/302097_1753202438759_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Kiran_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Odia",
+      "drm_license": "e705c9330a935a119021d97c7677ce62:dd306a57de1715b0e1256d5c1737f485"
+    },
+    {
+      "id": "302100",
+      "name": "Star Jalsha",
+      "logo": "https://img.media.jio.com/tvpimages/78/46/302100_1753189580244_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Jalsha_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Bengali",
+      "drm_license": "9d4fac613fa6505c8f4c34269bad472a:4eb0380c9f3d517db1eeaa768a3e23ac"
+    },
+    {
+      "id": "302101",
+      "name": "Asianet",
+      "logo": "https://img.media.jio.com/tvpimages/23/82/302101_1753203237969_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Asianet_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Malayalam",
+      "drm_license": "6b68a5a175d45f0ba8ed12b3016ea4d8:c7b8ce1a3a24e2f9b4d1249d04155c49"
+    },
+    {
+      "id": "302109",
+      "name": "Asianet Plus\t",
+      "logo": "https://img.media.jio.com/tvpimages/28/28/302109_1753199068744_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Asianet_Plus_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Malayalam",
+      "drm_license": "90ffee26840f5b329f5f9c978d30bb41:4cbb95492e7b342a772883f221243127"
+    },
+    {
+      "id": "302110",
+      "name": "Star Maa",
+      "logo": "https://img.media.jio.com/tvpimages/93/74/302110_1749653065828_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Maa_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Telugu",
+      "drm_license": "6744a252854352acbfe40413a14fca0f:1de605f98df36a7417eff631e1a0966a"
+    },
+    {
+      "id": "302706",
+      "name": "Sana TV",
+      "logo": "https://img.media.jio.com/tvpimages/94/97/302706_1756192990017_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/sanatv/HLSPartner/index.m3u8",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "none",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Tamil"
+    },
+    {
+      "id": "304003",
+      "name": "Tarang TV",
+      "logo": "https://img.media.jio.com/tvpimages/91/58/304003_1757328982222_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Tarang_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Odia",
+      "drm_license": "4392036897c452218eaf6f384463150c:c2cdfc1f342731054ee09b0fada35597"
+    },
+    {
+      "id": "304009",
+      "name": "Anjan TV",
+      "logo": "https://img.media.jio.com/tvpimages/87/39/304009_1757571691221_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Anjan_TV_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Hindi",
+      "drm_license": "5fe21948d1e6520a91651a88b73eef42:f635aac06984fdf26f5defc04d9b0dc3"
+    },
+    {
+      "id": "304015",
+      "name": "Subin TV",
+      "logo": "https://img.media.jio.com/tvpimages/53/88/304015_1758262424768_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/subintvtamil/HLSPartner/index.m3u8",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "none",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Tamil"
+    },
+    {
+      "id": "304031",
+      "name": "EPIC TV",
+      "logo": "https://img.media.jio.com/tvpimages/19/79/304031_1759350711735_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/EPIC_TV_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Hindi",
+      "drm_license": "6e533d02b7915239baf49f441d597867:85f534c8b375350504cb94a03a8ff8bb"
+    },
+    {
+      "id": "304032",
+      "name": "Nazara",
+      "logo": "https://img.media.jio.com/tvpimages/28/70/304032_1759350676120_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Nazara_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Hindi",
+      "drm_license": "52078868b1515ad592364dd5c2b7b476:a223d09b217e457e51ba32d167a45c3f"
+    },
+    {
+      "id": "304038",
+      "name": "NTC TV",
+      "logo": "https://img.media.jio.com/tvpimages/86/21/304038_1760343175307_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/ntvtamil/HLSPartner/index.m3u8",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "none",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Tamil"
+    },
+    {
+      "id": "304039",
+      "name": "Suriya TV",
+      "logo": "https://img.media.jio.com/tvpimages/3/60/304039_1760343226856_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/suryatvtamil/HLSPartner/index.m3u8",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "none",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Tamil"
+    },
+    {
+      "id": "304043",
+      "name": "Swastik Stories",
+      "logo": "https://img.media.jio.com/tvpimages/31/88/304043_1765351091153_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Swastik_Stories/HLSPartner/index.m3u8",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "none",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Hindi"
+    },
+    {
+      "id": "304045",
+      "name": "Brio TV",
+      "logo": "https://img.media.jio.com/tvpimages/69/21/304045_1760715842930_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Brio_TV_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Tamil",
+      "drm_license": "5c9d0b8b2caa5064ab09444ed2ce0a55:67a55978ea61f8c1d826b52e99aca82e"
+    },
+    {
+      "id": "304046",
+      "name": "JUS Punjabi HD",
+      "logo": "https://img.media.jio.com/tvpimages/75/74/304046_1761363131285_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/JUS_PUNJABI_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Punjabi",
+      "drm_license": "158dc91a5afd54f488ee1a6d5911e5ff:b45cf84a8f30e96460afb4f7ce090a2a"
+    },
+    {
+      "id": "304055",
+      "name": "Roja TV",
+      "logo": "https://img.media.jio.com/tvpimages/56/95/304055_1764315185570_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/rojatv/HLSPartner/index.m3u8",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "none",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Tamil"
+    },
+    {
+      "id": "304065",
+      "name": "Investigation Discovery HD",
+      "logo": "https://img.media.jio.com/tvpimages/93/19/304065_1764845468629_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/IDHDHindi_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": " Hindi",
+      "drm_license": "8a0d5007c45c5547b36901dc5f125c41:d474651d58ba24f6a779e0772e240138"
+    },
+    {
+      "id": "304087",
+      "name": "GTC Punjabi",
+      "logo": "https://img.media.jio.com/tvpimages/88/14/304087_1767343006295_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/GTCPunjabi_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Punjabi",
+      "drm_license": "12a6877cdf63580fad850ca24736c240:07daed3a6d5945cc92d265c625a1536e"
+    },
+    {
+      "id": "304088",
+      "name": "JioHome",
+      "logo": "https://img.media.jio.com/tvpimages/56/33/304088_1767858518702_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/JioHome_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": " Hindi",
+      "drm_license": "53681c19c88b554c92e9740e85d23cb4:b9d66e0a4849beefa14acf815bd0c9cf"
+    },
+    {
+      "id": "304092",
+      "name": "Zee Marathi",
+      "logo": "https://img.media.jio.com/tvpimages/77/6/304092_1768297804498_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeMarathi_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Marathi",
+      "drm_license": "95c378d17d3d5bbabf9ec086820ece00:dbbce65eaf9673918703d3bcb3131b42"
+    },
+    {
+      "id": "304100",
+      "name": "Zee Kannada HD",
+      "logo": "https://img.media.jio.com/tvpimages/3/71/304100_1768462885149_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeKannadaHD_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Kannada",
+      "drm_license": "02f4cfad19cf547da40f77c29bd303b2:a3ba2f7a824f232d7162f7452fe97a60"
+    },
+    {
+      "id": "304101",
+      "name": "Zee Tamil HD",
+      "logo": "https://img.media.jio.com/tvpimages/77/62/304101_1768463227993_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeTamilHD_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Tamil",
+      "drm_license": "1ab3810fc9505eaf9121202a5acf3656:eab9ac2b629171ed27c105ea62ea4fda"
+    },
+    {
+      "id": "304102",
+      "name": "Zee Telugu HD",
+      "logo": "https://img.media.jio.com/tvpimages/69/97/304102_1768463477407_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeTeluguHD_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Telugu",
+      "drm_license": "817e28c7f03456f1ae7383f244853b2b:7c03f916ec20cfd68f0a6a5735c6aaca"
+    },
+    {
+      "id": "304104",
+      "name": "Zee Keralam HD",
+      "logo": "https://img.media.jio.com/tvpimages/40/42/304104_1768465421709_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeKeralamHD_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Malayalam",
+      "drm_license": "ca03fd99cf33533caecf065085c4dd69:2f6eeefb9d65dffabde6d7c1e15966a7"
+    },
+    {
+      "id": "304105",
+      "name": "Zee Bangla HD",
+      "logo": "https://img.media.jio.com/tvpimages/71/9/304105_1768467750163_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeBanglaHD_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Bengali",
+      "drm_license": "7966a083736c5ff6b449767da10897bc:a11dff4dfcc5ebaff4640b8a5b2bd71e"
+    },
+    {
+      "id": "304114",
+      "name": "AlrightTV",
+      "logo": "https://img.media.jio.com/tvpimages/61/51/304114_1772089382692_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/alrght/HLSPartner/index.m3u8",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "none",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Hindi"
+    },
+    {
+      "id": "304119",
+      "name": "Friends TV",
+      "logo": "https://img.media.jio.com/tvpimages/59/14/304119_1771440173047_l_medium.jpg",
+      "stream_url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Friends_TV_BTS/output/index.mpd",
+      "headers": {
+        "Referer": "https://www.jiotv.com/",
+        "User-Agent": "Mozilla/5.0",
+        "Cookie": "__hdnea__=st=1774616205~exp=1774702605~acl=/*~hmac=b9f7d066ee253161743e6abf84357cd305252396acb4b7eb6b788dde676406ce"
+      },
+      "drm_type": "clearkey",
+      "category": [
+        "Entertainment"
+      ],
+      "language": "Bengali",
+      "drm_license": "c1c1ee706a255939b46d367c273bab15:0de6f8dcfd929de251cd7d8d9b812e89"
+    }
+  ]
+}
